@@ -84,6 +84,10 @@ Unchanged Files     : 2
 ========================================
 ```
 
+## Project Output
+
+![FileGuard Output](screenshots/output.png)
+
 ## Future Scope
 
 * Real-time monitoring
